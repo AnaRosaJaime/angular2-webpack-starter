@@ -13,6 +13,7 @@ dist
 
 # Dependency directory
 node_modules
+typings
 
 # Optional npm cache directory
 .npm
